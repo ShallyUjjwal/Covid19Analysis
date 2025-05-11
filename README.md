@@ -50,10 +50,26 @@ To perform EDA on COVID-19 data for India using real-time scraped data.
 - **Purpose:** Compare the number of tests conducted with the number of positive cases.
 - **Insight:** A proportional increase in testing correlates with higher confirmed cases, suggesting better detection coverage.
 
+### 💉 8. Total Cases vs Vaccination Rate Over Time
+- **Chart Type:** Dual-axis Line Plot
+- **Purpose:** Track relationship between vaccination coverage and new cases using 7-day averages.
+- **Insight:** As vaccination rate rises, case surges begin to stabilize or decline, suggesting a delayed but evident impact.
+
+    <img width="652" alt="image" src="https://github.com/user-attachments/assets/804f42b3-1c77-4400-9bac-e2f371d7a434" />
+
+### 🇮🇳 10. Daily New COVID-19 Cases in India
+- **Chart Type:** Line Plot
+- **Purpose:** Show the trend of daily reported cases in India along with a 7-day moving average.
+- **Insight:** Clearly identifies pandemic waves and helps assess policy impacts over time.
+    
+
 ### 📈 2. New Positive Cases Over Time
 - **Chart Type:** Line Chart
 - **Purpose:** Monitor the spread of COVID-19 daily.
 - **Insight:** Significant spikes correspond to the Delta and Omicron variant waves.
+
+        <img width="609" alt="image" src="https://github.com/user-attachments/assets/803b07f8-fcc2-4cf2-a0d5-7d1eefd64a66" />
+
 
 ### 📊 3. Statewise Positivity Rate (India)
 - **Chart Type:** Horizontal Bar Chart
@@ -74,6 +90,7 @@ To perform EDA on COVID-19 data for India using real-time scraped data.
 - **Chart Type:** Heatmap
 - **Purpose:** Discover statistical correlations between variables like tests, deaths, vaccination.
 - **Insight:** Strong correlation between positivity rate and confirmed cases.
+
     <img width="332" alt="image" src="https://github.com/user-attachments/assets/f73d1bb0-4f9b-440c-86fe-919d6e34e499" />
 
 
@@ -81,6 +98,7 @@ To perform EDA on COVID-19 data for India using real-time scraped data.
 - **Chart Type:** Pie Chart
 - **Purpose:** Show proportion of active, recovered, and deceased cases.
 - **Insight:** Recovery remains dominant; fatalities are proportionally low.
+
     <img width="314" alt="image" src="https://github.com/user-attachments/assets/382d2f2f-0eb0-4bda-8ac1-cd586317b3d4" />
 
 
@@ -89,6 +107,7 @@ To perform EDA on COVID-19 data for India using real-time scraped data.
 - **Technique:** KMeans Clustering
 - **Features Used:** Total cases, total deaths, total vaccinations
 - **Insight:** Countries grouped by severity level — useful for health policy segmentation.
+
     <img width="425" alt="image" src="https://github.com/user-attachments/assets/a0a7b29d-50fe-48b7-a5b7-00c25a270ee3" />
 
 ---
