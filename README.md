@@ -73,7 +73,9 @@ To perform EDA on COVID-19 data for India using real-time scraped data.
 - **Purpose:** Visualize the cumulative burden of COVID-19 across continents by comparing total confirmed cases and deaths.
 - **Insight:** Asia and Europe report high case counts, while mortality rates vary, indicating differences in healthcare infrastructure, reporting, and population size.
     
-        <img width="446" alt="image" src="https://github.com/user-attachments/assets/f4394b2c-a892-412f-a3d7-28b6aa4b145f" />
+  <img width="445" alt="image" src="https://github.com/user-attachments/assets/59818337-e369-4a58-bcd3-48af496dffff" />
+
+
 
 
 ### 🔍 5. Correlation Matrix of COVID-19 Metrics
@@ -81,7 +83,8 @@ To perform EDA on COVID-19 data for India using real-time scraped data.
 - **Purpose:** Display statistical relationships between core COVID-19 metrics such as cases, deaths, vaccinations, and population.
 - **Insight:** Strong positive correlation observed between total cases and total deaths. Vaccination rate shows moderate correlation with total vaccinations and inversely with deaths, indicating a potential mitigation effect.
 
-        <img width="332" alt="image" src="https://github.com/user-attachments/assets/f73d1bb0-4f9b-440c-86fe-919d6e34e499" />
+   <img width="331" alt="image" src="https://github.com/user-attachments/assets/4a7b1b62-d1f7-46ed-847d-0eef13e1a822" />
+
 
 
 ### 🌍 6. Total New COVID-19 Cases by Continent
