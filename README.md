@@ -74,16 +74,22 @@ To perform EDA on COVID-19 data for India using real-time scraped data.
 - **Chart Type:** Heatmap
 - **Purpose:** Discover statistical correlations between variables like tests, deaths, vaccination.
 - **Insight:** Strong correlation between positivity rate and confirmed cases.
+    <img width="332" alt="image" src="https://github.com/user-attachments/assets/f73d1bb0-4f9b-440c-86fe-919d6e34e499" />
+
 
 ### 🌍 7. Pie Chart – India's Case Distribution
 - **Chart Type:** Pie Chart
 - **Purpose:** Show proportion of active, recovered, and deceased cases.
 - **Insight:** Recovery remains dominant; fatalities are proportionally low.
+    <img width="314" alt="image" src="https://github.com/user-attachments/assets/382d2f2f-0eb0-4bda-8ac1-cd586317b3d4" />
+
+
 
 ### 🧰 8. Cluster Analysis
 - **Technique:** KMeans Clustering
 - **Features Used:** Total cases, total deaths, total vaccinations
 - **Insight:** Countries grouped by severity level — useful for health policy segmentation.
+    <img width="425" alt="image" src="https://github.com/user-attachments/assets/a0a7b29d-50fe-48b7-a5b7-00c25a270ee3" />
 
 ---
 
